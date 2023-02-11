@@ -1,0 +1,16 @@
+{
+  "short_name": "Thug City",
+  "name": "5000 thugs have escaped the prison and fled to your city, the government needs your help to capture them before its too late. Cops are on their way to help you.",
+  "icons": [
+  
+    {
+      "src": "logo.gif",
+      "type": "image/gif",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
